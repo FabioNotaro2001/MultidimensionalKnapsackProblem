@@ -268,7 +268,6 @@ print(soluzione_ottima)
 Per valutare la correttezza della soluzione dell'algoritmo, facciamo calcolare la soluzione del problema anche a un solver commerciale:
 """
 
-!pip install pulp
 from pulp import *
 
 def knapsack_multidimensional(profittiOggetti, dimensioniOggetti, dimensioniMassimeZaino):
