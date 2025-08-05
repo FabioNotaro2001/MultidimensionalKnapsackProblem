@@ -88,7 +88,7 @@ Open Ricerca_operativa.ipynb in Jupyter to:
 
     Study sensitivity to number of dimensions or item count
 
-You can modify the notebook or script to plug in alternative solution strategies, such as ILP with pulp, metaheuristics, or Python‘s mip package.
+You can modify the notebook or script to plug in alternative solution strategies, such as ILP with pulp, metaheuristics or Python‘s mip package.
 🧪 Adding Your Own Algorithms
 
 To extend the solver:
@@ -110,17 +110,4 @@ This project is released under the MIT License. See the LICENSE file for details
 
 Feel free to customize or extend the solver and analysis to suit your research or course requirements.
 
-Repository snapshot: contains a Python solver script and a companion notebook for interactive analysis. 
-
----
-
-### ✅ How to commit this README
-
-1. Copy the above markdown content.
-2. Paste it into a file named `README.md` at the root of your GitHub repo.
-3. Commit and push:
-
-```bash
-git add README.md
-git commit -m "Add project README"
-git push
+Repository snapshot: contains a Python solver script and a companion notebook for interactive analysis.
